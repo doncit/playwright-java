@@ -2,7 +2,7 @@
 
 ## Required tools
 
-* Java >=17
+* Java 17
 * Maven >=3.8
 
 ## Run
